@@ -4,7 +4,7 @@
 int main() {
     int tip;
     
-    std::cout << "Enter your tip: \n";
+    std::cout << "Enter your tip: ";
     std::cin >> tip;
     std::cout << "Your tip is: $" << tip << std::endl;
 
